@@ -16,3 +16,10 @@ This project builds an industry-focused LSTM time-series model to predict next-s
 
 ## Project Status
 In progress...
+
+## Model Performance (Baseline LSTM)
+
+- MAE: ~XXX kW
+- RMSE: ~XXX kW
+
+The baseline LSTM model demonstrates the ability to capture temporal patterns in wind speed for next-step power prediction.
